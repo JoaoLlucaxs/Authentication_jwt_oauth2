@@ -9,7 +9,7 @@ Este projeto utiliza **Java, Spring Boot , Flyway Migrations, PostgresSQL, Sprin
 
 ## Links
 
-- [Instalação](#instalacap)
+- [Instalação](#instalacao)
 - [Configuracao](#configuracao)
 - [Teste](#teste)
 - [API Endpoints](#api-endpoints)
